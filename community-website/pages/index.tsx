@@ -111,7 +111,7 @@ const Home: NextPage = () => {
               rel="noopener noreferrer"
             >
               <h2>Find us on GitHub &rarr;</h2>
-              <p>Join our wonderful & growing community of 138+ people 💖</p>
+              <p>Join our wonderful & growing community of + 138 people 💖</p>
             </a>
           </Link>
         </div>
